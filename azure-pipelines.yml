@@ -7,7 +7,7 @@ trigger:
 - mandy
 
 pool:
-  name: default
+  name: TIP-Linux-Agent
 strategy:
   matrix:
     Python27:
